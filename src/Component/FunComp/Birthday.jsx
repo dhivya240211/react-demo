@@ -26,7 +26,7 @@ export const Birthday = () => {
 
                 id: 2,
 
-                name: 'Hester Hogan',
+                name: 'dhivyaaaa',
 
                 age: 32,
 
