@@ -1,0 +1,18 @@
+.toy{
+    border-radius:50%;
+
+}
+.doll{
+color: brown;
+padding-left: 110px;
+line-height: 2;
+
+}
+.offer{
+    float: left;
+}
+.mig{
+    background-color: aqua;
+    color: blueviolet;
+    width: 90%;
+}
